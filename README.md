@@ -1,2 +1,2 @@
 # frontendmentor_qrcode
-Front End Mentor Challenges
+Completed Frontend Mentor QR Challenge.
