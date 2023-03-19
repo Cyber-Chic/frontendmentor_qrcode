@@ -7,7 +7,7 @@ Frontend Mentor requires the use of front end skills to create websites and solv
 
 -   [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
+  - [Screenshots](#screenshots)
   - [Links](#links)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -22,10 +22,11 @@ This project contains my QR code component design replication.  It is the first 
 
 To create a QR code component and have it look as close to the original design as possible.
 
-### Screenshot
+### Screenshots
 
-![](./desktop-screenshot.png)
-![](./mobil-screenshot.png)
+![Screenshot 2023-03-18 at 23-12-19 Frontend Mentor QR Code Component](https://user-images.githubusercontent.com/99448276/226151641-0ac269c7-bd48-4e7c-949b-578ecb496af5.png)
+
+![Screenshot 2023-03-18 at 23-13-41 Frontend Mentor QR Code Component](https://user-images.githubusercontent.com/99448276/226151680-66a5e618-6593-43b2-8537-38b2f4aa584c.png)
 
 ### Links
 
