@@ -62,9 +62,9 @@ I learned how to add and position images, use headers, format my code using Pret
 *Bridging the gap between digital code and physical reality.*
 
 **EXPLORE THE NETWORK:**
-*   **🔭 RESEARCH:** [NASA Exoplanet Watch Participation & Data](https://github.com/Cyber-Chic/nasa)
+*   **🔭 RESEARCH:** [NASA Exoplanet Watch Data](https://github.com/Cyber-Chic/nasa)
 *   **🧪 ARCHIVE:** [The Moore Archive | Physical Artifact Hunt](https://emaze.me/tma)
-*   **💻 CODE:** [View My Full Repository Catalog](https://github.com/Cyber-Chic)
+*   **📡 TERMINAL:** [Cyber-Chic Home & Protocols](https://github.com/Cyber-Chic)
 
 **[ ☕ MISSION SUSTENANCE ]**
 Sponsorships support my full creative ecosystem—from public-facing research and citizen science to the physical art drops of The Moore Archive.  
