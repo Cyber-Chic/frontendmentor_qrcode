@@ -1,4 +1,4 @@
-# 💡 Frontend Mentor: QR Code // THE MOORE SIGNAL
+# 💻 Frontend Mentor: QR Code // THE MOORE SIGNAL
 
 This is a solution to the [QR code component challenge](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H) hosted on Frontend Mentor.
 Frontend Mentor requires the use of front end skills to create websites and solve real world coding challenges.
