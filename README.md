@@ -50,12 +50,6 @@ I learned how to add and position images, use headers, format my code using Pret
 - [Prettier · Opinionated Code Formatter](https://prettier.io/) - This helped me format my code.
 - [Google Fonts](https://fonts.google.com/) - This is where I found the font included in this project.
 
-## Author
-
-- Website - [Angie's Poetry Blog](https://angies.poetry.blog/)
-- Frontend Mentor - [@Cyber-Chic](https://www.frontendmentor.io/profile/Cyber-Chic)
-- Github - [@Cyber-Chic](https://github.com/Cyber-Chic)
-
 # Sponsors
 ### [ 🛰️ PROJECT SUBSYSTEM ]
 **Part of the [Moore Archive](https://emaze.me/tma) Creative Ecosystem.**  
