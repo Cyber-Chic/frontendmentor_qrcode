@@ -50,19 +50,16 @@ I learned how to add and position images, use headers, format my code using Pret
 - [Prettier · Opinionated Code Formatter](https://prettier.io/) - This helped me format my code.
 - [Google Fonts](https://fonts.google.com/) - This is where I found the font included in this project.
 
-# Sponsors
-### [ 🛰️ PROJECT SUBSYSTEM ]
-**Part of the [Moore Archive](https://emaze.me/tma) Creative Ecosystem.**  
-*Bridging the gap between digital code and physical reality.*
-
-**EXPLORE THE NETWORK:**
-*   **🔭 RESEARCH:** [NASA Exoplanet Watch Data](https://github.com/Cyber-Chic/nasa)
-*   **🧪 ARCHIVE:** [The Moore Archive | Physical Artifact Hunt](https://emaze.me/tma)
-*   **📡 TERMINAL:** [Cyber-Chic Home & Protocols](https://github.com/Cyber-Chic)
-
-**[ ☕ MISSION SUSTENANCE ]**
-Sponsorships support my full creative ecosystem—from public-facing research and citizen science to the physical art drops of The Moore Archive.  
-[**➡️ SUPPORT THE JOURNEY VIA PAYPAL**](https://www.paypal.com/donate/?hosted_button_id=CJVWS45KF46ZE)
+<br>
 
 ---
-**ANGELA N. MOORE // SIGNAL STATUS: 🟢 NOMINAL**
+
+### [ 🛰️ ARCHIVE_LOG ]
+**The Moore Signal Archive LLC // Technical Foundations**  
+*Verification of initial semantic architecture and visual design replication.*
+
+> *“I want to live as though I traveled back in time... To this very moment.”*
+
+**TECHNICAL NOTE:** Hub Footer optimized via **[ HUMAN 👁️ + AI 🤖 ]** Synergy.  
+**SIGNAL STATUS: 🟢 NOMINAL**
+
